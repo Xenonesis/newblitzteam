@@ -29,7 +29,7 @@
               <div class="absolute inset-0 rounded-xl bg-gradient-to-br from-blue-600 via-purple-600 to-indigo-600 opacity-0 group-hover:opacity-20 blur-xl transition-opacity duration-500"></div>
             </div>
             <div class="hidden sm:block">
-              <h1 class="font-bold text-xl bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 dark:from-white dark:via-blue-200 dark:to-purple-200 neon:from-cyan-400 neon:via-purple-400 neon:to-pink-400 bg-clip-text text-transparent">
+              <h1 class="font-bold text-xl bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 light:from-gray-900 light:via-blue-800 light:to-purple-800 dark:from-white dark:via-blue-200 dark:to-purple-200 neon:from-cyan-400 neon:via-purple-400 neon:to-pink-400 bg-clip-text text-transparent">
                 Team Blitz
               </h1>
               <p class="text-xs text-muted-foreground -mt-1">Hackathon 2025</p>

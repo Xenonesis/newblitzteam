@@ -16,9 +16,9 @@ export function setTheme(theme) {
   localStorage.setItem('theme', theme);
 }
 
-// Check for saved theme preference or use 'dark' as default
+// Check for saved theme preference or use 'light' as default
 const savedTheme = localStorage.getItem('theme');
-const initialTheme = savedTheme && themes.includes(savedTheme) ? savedTheme : 'dark';
+const initialTheme = savedTheme && themes.includes(savedTheme) ? savedTheme : 'light';
 
 // Set the initial theme
 setTheme(initialTheme);
